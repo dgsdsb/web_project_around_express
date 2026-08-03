@@ -1,4 +1,4 @@
-# web_project_around_express (EUA Afora - Back-end)
+# Projeto 15 - EUA Afora (Back-end)
 
 ## Descrição do Projeto
 Este projeto consiste na criação da API back-end inicial para a aplicação "EUA Afora". O servidor foi desenvolvido utilizando Node.js e Express, permitindo o gerenciamento e a disponibilização de dados de usuários e cartões através de rotas RESTful.
