@@ -5,7 +5,8 @@
     "lint": "npx eslint ."
   },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mongoose": "^9.11.4"
   },
   "devDependencies": {
     "eslint": "^8.56.0",
